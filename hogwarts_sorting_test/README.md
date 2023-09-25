@@ -2,7 +2,7 @@
 
 # Background:
     # Those familiar with Harry Potter will know that students are sorted into four houses at the school Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, or Slytherin.
-    The popular, related website, wizardingworld.com (formerly pottermore.com), has a version of the sorting test to allow users to be sorted into a house like the characters from the series.
+    # The popular, related website, wizardingworld.com (formerly pottermore.com), has a version of the sorting test to allow users to be sorted into a house like the characters from the series.
     How the test works is asking eight rounds of multiple choice questions.
     There are multiple possible questions per round, so the actual questions received in any single iteration of the test can vary. This can lead to different results.
 
