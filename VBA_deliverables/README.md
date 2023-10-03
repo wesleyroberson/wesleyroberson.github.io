@@ -6,3 +6,6 @@
 
 # Sampling with Subcategory.xlsm
     # Excel macro file allowing the selection of random samples for every value of a particular subcategory from a population the user inputs based on a particular sampling methodology.
+
+# Request List with Stats.xlsm
+    # Excel macro file creating a summary display for a request list based on status of requests, due dates, etc.
